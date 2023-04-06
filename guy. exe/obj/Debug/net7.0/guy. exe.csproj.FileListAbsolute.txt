@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\guy. exe\bin\Debug\net7.0\guy. exe.exe
+C:\Users\ASUS\Desktop\guy. exe\bin\Debug\net7.0\guy. exe.deps.json
+C:\Users\ASUS\Desktop\guy. exe\bin\Debug\net7.0\guy. exe.runtimeconfig.json
+C:\Users\ASUS\Desktop\guy. exe\bin\Debug\net7.0\guy. exe.dll
+C:\Users\ASUS\Desktop\guy. exe\bin\Debug\net7.0\guy. exe.pdb
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.dll
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\refint\guy. exe.dll
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.pdb
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\guy. exe.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\guy. exe\obj\Debug\net7.0\ref\guy. exe.dll
